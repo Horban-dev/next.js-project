@@ -24,7 +24,7 @@ const customers = [
   },
   {
     id: "3958dc9e-737f-4377-85e9-fec4b6a6442a",
-    name: "Hector Simpson",
+    name: "Hectorerr Simpson",
     email: "hector@simpson.com",
     image_url: "/customers/hector-simpson.png",
   },
